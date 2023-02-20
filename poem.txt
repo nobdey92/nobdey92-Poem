@@ -2,7 +2,7 @@ Rose are Red,
 Violets are blue. (I mean they are violet, like the name suggests)
 Unexpected '{',
 on line 32.
-
+(Look at whats hiding below)
 Jordan Hobdey
 
 
